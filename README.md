@@ -27,7 +27,7 @@ Skills: *Data Visualization, Healthcare Analytics, EHR/Clinical Informatics conc
 
 ---
 
-## 📁 Data Source
+## Data Source
 - CDC Provisional COVID-19 Death Counts Dataset  
 - Public health data used for mortality trend analysis
 ---
@@ -41,7 +41,7 @@ Skills: *Data Visualization, Healthcare Analytics, EHR/Clinical Informatics conc
 
 ---
 
-## 🏥 Healthcare Impact & Use Case
+## Healthcare Impact & Use Case
 
 This dashboard shows how clinical and public health data can be used to support better decision-making during a public health crisis. By turning raw CDC mortality data into an interactive tool, it helps healthcare professionals identify high-risk populations, track disease burden trends, and understand differences in outcomes across age, sex, and geographic regions.
 
@@ -53,7 +53,7 @@ This type of dashboard can also be used in Electronic Health Record (EHR) system
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
