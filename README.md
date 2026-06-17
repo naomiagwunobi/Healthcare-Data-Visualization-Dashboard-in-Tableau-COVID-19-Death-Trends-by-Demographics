@@ -1,7 +1,7 @@
 # Healthcare Data Visualization Dashboard in Tableau: COVID-19 Death Trends by Demographics
 
 ## 📊 Project Overview
-This project is an interactive Tableau dashboard built using CDC Provisional COVID-19 mortality data. The goal is to analyze death trends across different demographic groups and geographic regions to identify disparities and support public health decision-making.
+This project is an interactive Tableau dashboard built using CDC Provisional COVID-19 mortality data. The goal is to analyze death trends across different demographic groups and geographic regions to identify disparities and support public health decision making.
 
 The dashboard allows users to explore COVID-19 death patterns by age group, sex, and state using dynamic filters and interactive visualizations.
 
@@ -30,8 +30,6 @@ The dashboard allows users to explore COVID-19 death patterns by age group, sex,
 ---
 
 ## 📷 Screenshots
-
-> Replace the image paths below with your actual GitHub image links
 
 ### Dashboard Overview
 ![Dashboard Overview](dashboard_overview.png)
