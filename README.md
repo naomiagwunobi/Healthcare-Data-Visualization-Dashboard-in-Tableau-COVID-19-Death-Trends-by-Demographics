@@ -42,25 +42,6 @@ The dashboard allows users to explore COVID-19 death patterns by age group, sex,
 ### State-Level Trends
 ![State Trends](images/state_trends.png)
 
----
-
-## 🚀 Setup Instructions
-
-### 1. Download the Project
-- Download the `.twbx` Tableau Packaged Workbook file from this repository
-
-### 2. Open in Tableau
-- Install **Tableau Desktop** (or Tableau Public)
-- Open Tableau
-- Click **File → Open**
-- Select the downloaded `.twbx` file
-
-### 3. Explore the Dashboard
-- Use filters to explore:
-  - State
-  - Sex
-  - Age Group
-- Click on charts to interact with visual data
 
 ---
 
