@@ -10,15 +10,20 @@ The dashboard enables users to explore mortality trends by age group, sex, state
 ---
 ## Key Insights
 **1. Age was the strongest predictor of mortality risk**, with older age groups experiencing significantly higher COVID-19 death counts compared to younger populations.
+
 **2. Individuals aged 65+ accounted for the majority of deaths**, highlighting the increased vulnerability of elderly populations during the pandemic.
+
 **3. Mortality rates showed noticeable differences between sexes**, with males generally experiencing higher death counts than females across most age groups.
+
 **4. COVID-19 deaths varied significantly by state**, indicating geographic disparities in healthcare access, population density, and public health response effectiveness.
+
 **5. Deaths peaked during specific time periods**, reflecting waves of infection and the evolving impact of the pandemic over time.
 
 ---
 ## 📌 Tools & Skills Demonstrated
 Tableau | Excel | CDC Public Health Dataset
-*Data Visualization, Healthcare Analytics, EHR/Clinical Informatics concepts, Public Health Trend Interpretation, Interactive filtering and user experience design*
+
+Skills: *Data Visualization, Healthcare Analytics, EHR/Clinical Informatics concepts, Public Health Trend Interpretation, Interactive filtering and user experience design*
 
 ---
 
