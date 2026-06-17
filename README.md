@@ -34,13 +34,13 @@ The dashboard allows users to explore COVID-19 death patterns by age group, sex,
 > Replace the image paths below with your actual GitHub image links
 
 ### Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Age Group Analysis
-![Age Group Analysis](images/age_group_analysis.png)
+![Age Group Analysis](age_group_analysis.png)
 
 ### State-Level Trends
-![State Trends](images/state_trends.png)
+![State Trends](state_trends.png)
 
 
 ---
